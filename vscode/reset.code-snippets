@@ -1,0 +1,26 @@
+{
+	"Print to console": {
+		"scope": "css",
+		"prefix": "reset",
+		"body": [
+			"@charset \"UTF-8\";",
+			"",
+			"* {",
+			"  margin: 0;",
+			"  padding: 0;",
+			"  border: none;",
+			"  box-sizing: border-box;",
+			"  outline: none;",
+			"}",
+			"",
+			"ul, li {",
+			"  list-style: none;",
+			"}",
+			"", 
+			"",
+			"",
+			"",
+		],
+		"description": "Log output to console"
+	}
+}

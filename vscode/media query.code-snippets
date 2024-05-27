@@ -1,0 +1,12 @@
+{
+	"Print to console": {
+		"scope": "css",
+		"prefix": "media query",
+		"body": [
+			"@media screen and (max-width: 50rem) {",
+			"",
+			"}"
+		],
+		"description": "Log output to console"
+	}
+}

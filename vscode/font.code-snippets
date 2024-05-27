@@ -1,0 +1,12 @@
+{
+	"Print to console": {
+		"scope": "css",
+		"prefix": "font",
+		"body": [
+            "color: var(--clr-);",
+            "font-size: var(--fs-px);",
+            "font-weight: var(--fw-);"
+		],
+		"description": "fonts"
+	}
+}
